@@ -51,6 +51,4 @@
  */
 - (void)hiddeHud ;
 
-
-//- (void)showHudMessage:(NSArray<NSString*>*)TitleArr andLeftChoseContent:(NSString*)leftContent andLeftContentColor:(UIColor*)leftColor andRightChoseContent:(NSString*)RightContent andRightContentColor:(UIColor*)rightColor InView:(UIViewController*)view;
 @end
