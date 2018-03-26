@@ -1,4 +1,3 @@
 # CBXChoseHud
-Similar to WeChat's ChoseHud 一个类似微信的选择框, 最多可以设置5行标题
-
-通过方法交换，在提示框当前界面消失时自动移除提示框。
+Five common set of prompt boxes
+五种常用提示框的合集、包括静态选择类型的提示框、动态加载提示的提示框、动态成功或失败的提示框
